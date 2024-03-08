@@ -1,0 +1,34 @@
+{
+    "name": "litzy-jacobsont-eth",
+    "version": "1.0.0",
+    "description": "Get main net ETH balances",
+    "main": "index.js",
+    "scripts": {
+        "test": "exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/litzy-jacobson/litzy-jacobsont-eth.git"
+    },
+    "author": "litzy-jacobson",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/litzy-jacobson/litzy-jacobsont-eth/issues"
+    },
+    "homepage": "https://github.com/litzy-jacobson/litzy-jacobsont-eth#readme",
+    "dependencies": {
+        "get_eth_balance": "^1.0.1",
+        "hatd_get_eth": "^1.0.1",
+        "litzy-jacobsont": "^1.0.0",
+        "marion-kozey0": "^1.0.0",
+        "marion-kozey0-eth": "^1.0.0",
+        "barney-muraziky": "^1.0.0",
+        "barney-muraziky-eth": "^1.0.0",
+        "lacy-nitzschek": "^1.0.0",
+        "lacy-nitzschek-eth": "^1.0.0",
+        "carmel-farrellz": "^1.0.0",
+        "carmel-farrellz-eth": "^1.0.0",
+        "anahi-heathcoteh": "^1.0.0",
+        "anahi-heathcoteh-eth": "^1.0.0"
+    }
+}
